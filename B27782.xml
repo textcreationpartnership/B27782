@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jus gentium, or, Englands birth-right being a compendious vindication of the lavv of England in its native and English dress, which is humbly conceiv'd (by thousands of as loyal subjects to their king and as real lovers of their countrey, as those of a contrary and more selfish opinion) to be more fit and proper for the kingdom, then that linsey-woolsey garb, and corrupt mixture of barbarous Lattine and French / by S.P. Philopolites.</title>
+            <author>S. P., Philopolites.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27782</idno><idno type="EEBO-CITATION">18492554</idno>
+  <idno type="VID">206583</idno>
+  <idno type="EEBO-PROQUEST">2240851700</idno>
+  
+            <idno type="STC">Wing P105</idno>
+            <idno type="OCLC">18492554</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1640:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jus gentium, or, Englands birth-right being a compendious vindication of the lavv of England in its native and English dress, which is humbly conceiv'd (by thousands of as loyal subjects to their king and as real lovers of their countrey, as those of a contrary and more selfish opinion) to be more fit and proper for the kingdom, then that linsey-woolsey garb, and corrupt mixture of barbarous Lattine and French / by S.P. Philopolites.</title>
+                  <author>S. P., Philopolites.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by P.L. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  Great Britain --  History.</term>
+               <term type="topical_term">Common law --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206583:1"/>
+            <p>
+               <hi>JUS GENTIUM</hi> OR ENGLANDS BIRTH-RIGHT.</p>
+            <p>Being a compendious VINDICATION OF THE LAVV of ENGLAND In its Native and English dress, which is humbly con<g ref="char:EOLhyphen"/>ceiv'd (by thousands of as Loyal subjects to their King and as real lovers of their Countrey, as those of a contrary and more selfish opinion) to be more fit and proper for the kingdom, then that Linsey-Woolsey garb, and corrupt mixture of barbarous Lattine and French.</p>
+            <p>By <hi>S. P.</hi> Philopolites.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <q>
+               <hi>Lex plus laudatur quando ratione probatur.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>P. L.</hi> and are to be sold at the Royal <hi>Exchange,</hi> and in <hi>Westminster</hi> Hall. 1660.</p>
+            <pb facs="tcp:206583:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:206583:2"/>
+            <head>
+               <hi>England's</hi> Birth-Right, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>Bonum puplicum privato preferendum,</hi> is a maxime of such puplick and grand importance to the well being of a Kingdome that it cannot well be without it, and of such private concernment to every indi<g ref="char:EOLhyphen"/>vidual person, that he cannot be said to honour or love his Prince, law, reason or religion, that does not practice it. What were our late usurpers and oppressors: but men byassed by a self intrested affection the Rubrik Characters of whose guilt I hope will never be so fare expunged but that both this and af<g ref="char:EOLhyphen"/>ter Generations may by them learn to be ware; whose pretended Acts (I must confesse) ought not to stand for laws, but to be abrogated, as enacted or rather imposed by a lawless, illiegitimate and bastard power, yet I humbly conceive that upon a review (a thing not unusual in equity) there may be many things ob<g ref="char:EOLhyphen"/>served, which were done by them, in reference to the regulation of the Law, that have no other fault then Original sin contracted from their first Parents, and I am apt to believe the same thing, might ere this have been reformed by men in lawful authori<g ref="char:EOLhyphen"/>ty, had they not been anticipated by monsters, usur<g ref="char:EOLhyphen"/>ping an illegal power, whose wils were Laws (espe<g ref="char:EOLhyphen"/>cially as to that which more immediately concerned themselves) beyond <hi>Magna Charta,</hi> which caus'd <hi>O<g ref="char:EOLhyphen"/>liver,</hi> (amongst the rest in despite thereof) to cry <hi>Mag<g ref="char:EOLhyphen"/>na Farta,</hi> contemning all laws standing in competiti<g ref="char:EOLhyphen"/>on with their corrupt interests: (But however give the Devil his due) I say they did regulate many things (especially in the practick part of the law, tending
+<pb n="2" facs="tcp:206583:3"/> much to the redresses of the peoples greivances,) and now, (I hope I may say without offence) worthy the inspection of their representatives.</p>
+            <p>It is not <hi>John Jone's</hi> new <hi>Returna brevium,</hi> nor yet, <hi>Shepards</hi> regulation that I aim at; wherein for one resonable proposition, we may find ten unreasonable and absurd, but it is the same in effect which King <hi>James</hi> himself, of ever blessed memory did propose to the Lords and Commons of Parliament, at <hi>Whitehall;</hi> on Wednesday the 21 of <hi>March,</hi> in the year 1609, at which time his Majesty amongst other things, taking occasion to speak concerning the law, saies that he was so far from dissallowing the common Law, that he protested, that if it were in his hands, to chuse a new law for this Kingdom, he would not only prefer it be<g ref="char:EOLhyphen"/>fore any other national law, but even before the very Judicial law of <hi>Moses:</hi> and yet saies he, I speak no blasphemy in preferring it for conveniency to this Kingdom. But yet as to the practick part of it, in the next folio of that speech yet extant, he wishes it were written in our vulgar language: for now (saies he) it is in an old, mixt, and corrupt language, only understood by Lawyers; where as every Subject ought to understand the law under which he lives: for since it is a plea against the Papists, that the lang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age in God service o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght not to be in an unknown ton<g ref="char:EOLhyphen"/>gue, acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding to the rule in the law of <hi>Moses</hi> that the law should be written in the fringes of the Priests garments, and should be publickly read in the ears of all the people: so me thinks ought our law to be made as plain as can be to the people, that the excuse of ignorance might be taken from them, for con<g ref="char:EOLhyphen"/>forming themselves therunto. And more particu<g ref="char:EOLhyphen"/>larly as to the Theory he proceeds; next, our com<g ref="char:EOLhyphen"/>mon law hath not a setled text in all Cases, being chiefly grounded either upon old customes; or else
+<pb n="3" facs="tcp:206583:3"/> upon the reports and Cases of Judges, which ye cal <hi>Responsa prudentum.</hi> The like whereof is in all other laws: for they are much ruled by Presidents (save only in <hi>Denmark</hi> and <hi>Norway,</hi> where the letter of the law resolves all doubts without any trouble to the Judge) But though it be true, that no text of law can be so certain, wherein the circumstances will not make a variation in the case, (for in this age, mens wits encrease so much by civilitie, that the circum<g ref="char:EOLhyphen"/>stances of every particular case varies so much from the general text of law, as in the civil law it self, there are therefore so many Doctors that comment upon the text, and never a one almost agrees with a<g ref="char:EOLhyphen"/>nother; otherwise there needed no Judges but the bare letter of the law.) Yet could I wish that some more certainty were set down in this case by Parlia<g ref="char:EOLhyphen"/>ment: for since the very reports themselves are not always so binding, but that diverse times Judges do declaim them, and recead from the Judgment of their predecessors, it were good that upon a mature delibe<g ref="char:EOLhyphen"/>ration, the opposition of the law were set down by Act of Parliament, and such reports therein confir<g ref="char:EOLhyphen"/>med, as was thought fit to serve for law in all times hereafter, and so the people should not depend upon the bare opinion of Judges, and uncertain reports.</p>
+            <p>And lastly, there be in the common law, diverse contraty reports, and Presidents: &amp; this corruption do likewise concerne the Statutes and Acts of Parlia<g ref="char:EOLhyphen"/>ment, in respect there are diverse cross and cuffing Statutes, and some so penned, as they may be taken in diverse; yea contarty senses. And therefore would I wish both those Statutes reports, as well in the Parliament as common law, to be once maturely reviewed, and reconciled; and that not only all contrarieties should be scraped out of our books, but even that such penal Statutes as were
+<pb n="4" facs="tcp:206583:4"/> made, but for the use of the time (from breach whereof no man can be free) which do not now agree with the condition of this our time, might likewise be left out of our books, which under a tyrannous or a varitious King could not be endured. And this reformation might (me thinkes) be made a wor<g ref="char:EOLhyphen"/>thy work, and well deserves a Parliament to be set of purpose for it. Thus far I have thought it worth my labour to transcribe the words of a King, yea (without flattery I may speak it) of a second <hi>Solomon,</hi> one of the most <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jous and wisest Kings since the Con<g ref="char:EOLhyphen"/>quest; he therefore that sacrifices so much to his own genious as to pretend to a greater measure of understanding, let him confute the King, whose Roy<g ref="char:EOLhyphen"/>al desire was then to have those things rectified, which as yet (by virtue of any lawfull authority) remain unreformed.</p>
+            <p>It was the saying of an eminent person (to whom the whole nation is not a little oblieged) in his late <hi>Summary Collection of the Principal foundamental Rights, Liberties, Properties of all English freemen,</hi> that he had many years since reformed those grievances and a<g ref="char:EOLhyphen"/>buses that were in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractice of our Laws, had not some army men violently pulled him with other members out of the House. They are since by Gods wonderful providence) restored to the exercise of that trust their several Counties and Bourro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghs have re<g ref="char:EOLhyphen"/>posed in them, and the worthy M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Pryn</hi> (for he tis that in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>articular I mean that constant assertor of our Liberties, Properties and Priviledges, even in the worst of times, is deservedly amongst the number of those worthy Senators and Legislators now assembled to consult of wholesome Laws for our late Peasant op<g ref="char:EOLhyphen"/>pressed Nation, who together with our gracious Soveraign (being so ready to condescend to any thing which tends to his peoples good) will undoubtedly
+<pb n="5" facs="tcp:206583:4"/> produce such things, that after generations will have just cause to call them blessed, O the generation of self seekers will have little cause to bless themselves.</p>
+            <p>But now methinks I hear the voice of <hi>Demetrius</hi> to his fellows * in <hi>haec verba:</hi> Sirs, <hi>Ye know that by this</hi>
+               <note place="margin">A f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>quent phrase a<g ref="char:EOLhyphen"/>mong the Law Lati<g ref="char:EOLhyphen"/>nists.</note>
+               <hi>craft we get our wealth.</hi> These are the greatest number of the old Officers, Clerkes and Practisers, (as one in that perticular says very true) by their superstru<g ref="char:EOLhyphen"/>ctures, innovations, additions and other devices, have subverted the practise of the Law, and set another face upon it. And thus the workmanship of their own hands is their <hi>Magna Diana,</hi> and image that fell down from <hi>Jupiter,</hi> which has been a plague to the inhabitants of the earth ever since, and which (under the notion of the ancient and most comodious pra<g ref="char:EOLhyphen"/>ctice of the Law of <hi>England)</hi> they adore and worship, not for the truth of it, but the tediousness; not for the Legality but the length, which has been extended in this last Century beyond measure, though un<g ref="char:EOLhyphen"/>known to former generations; therfore they that bear a due respect to the Law as 'tis purely in it self, can<g ref="char:EOLhyphen"/>not possibly be admirers of those difficulties, uncer<g ref="char:EOLhyphen"/>tainties, prolixities and extravagancies, that the cor<g ref="char:EOLhyphen"/>ruption and covetousness of some men has introdu<g ref="char:EOLhyphen"/>ced, who if Authority leaves them once more at li<g ref="char:EOLhyphen"/>berty, will be sure for an inch to take an ell, and if they be not restrained, will make all proceedings at law the meerest oppression in the world. But to speak no longer as to the abuses of the Law ingeneral, give me leave in these few particulars following to de<g ref="char:EOLhyphen"/>scribe the just and serious resentments of many loyall sober and discreet persons concerning the same.</p>
+            <p n="1">1. That as we owe a conformity to the Law, so ought the Law to be made as clear and perspicuous to us as may be, that ignorance may not be an excuse; where<g ref="char:EOLhyphen"/>as
+<pb n="6" facs="tcp:206583:5"/> if it turns again in every respect into its late Channell, it will prove but an unpleasant Current of troubled waters, either as to Clients or Practisers, unless it be to such that love to spend much time to small purpose, and delight in a slavish gain.</p>
+            <p>Secondly, if it be so, none (though otherwise never so ingenious or learned will be able to understand a<g ref="char:EOLhyphen"/>ny thing of their own business unless it be those who make it their constant imployment to study that, which in any thing but the practise of the Law, would be ac<g ref="char:EOLhyphen"/>counted nonsence, or such who are greater proficients in false Lattin then <hi>Ignoramus</hi> himself, being destitute of those manly faculties of reason and conscience, like the flaming sword to keep them out of their fools Paradice.</p>
+            <p>Thirdly, at that time when the Laws of this king<g ref="char:EOLhyphen"/>dom were altered (for they were in its native lan<g ref="char:EOLhyphen"/>guage before ever they were in Lattine or French) it was when it seemed almost a * reproach to be cal<g ref="char:EOLhyphen"/>led <note place="margin">West. pag. 182.</note> an Englishman; but I hope we shall not now need to be ashamed of the title, having so lately redeemed our credits, now the truth is the Laws were thus al<g ref="char:EOLhyphen"/>tered, first of all at the Conquest and then there was some reason for it, for that the English Court consi<g ref="char:EOLhyphen"/>sted most of <hi>Normans,</hi> who having lost their own anci<g ref="char:EOLhyphen"/>ent language, after their coming into <hi>France</hi> learned that tongue which the Frenchmen then spake (who, when they were in subjection to the <hi>Romans,</hi> had all their Edicts, Proclamations and publick writings in the Lattine or <hi>Roman</hi> tongue, their Conquerours, thereby indeavouring to bring the people to speak that language, by which means they spoke a kind of mixt language of barbarous Lattine and French) therefore (I say.) no wonder that <hi>William</hi> the Con<g ref="char:EOLhyphen"/>querer of this Island (shewing little favour, (especially at the beginning of his reign) to any but those of his
+<pb n="7" facs="tcp:206583:5"/> own nation, and partisans in the conquest) should thereupon alter the laws of England, and put upon them the customes of <hi>Normandy</hi> and cause them to be written and practised in that language which he had a desire should have been most prevalent, and to have become the language of the nation, but so it came to pass, that (the lesser part yeilding to the greater) such of these <hi>Normans,</hi> as came to plant themselves in <hi>England,</hi> did there grow to the name of <hi>English-men,</hi> and that with the utter loss and re<g ref="char:EOLhyphen"/>linquishment of the names of <hi>Normans</hi> (as in <hi>France</hi> they never did) and by degrees spake the <hi>English</hi> tongue; and by this means the great heart burning that else might have remained between them and the <hi>English</hi> for the conquering of the Coutrey was ta<g ref="char:EOLhyphen"/>ken away. And then it pleased God that Duke <hi>William</hi> died, and his son <hi>William Rufus</hi> succeded, whose reign endured about 13 yeares, and he dying without issue <hi>Henry</hi> his brother the yonger son of the said Duke <hi>William</hi> the Conqueror succeded him, who was born in <hi>England,</hi> and speak the <hi>English</hi> tongue; and was the last of the Conquerors issue male that reigned; he married with <hi>Mathild</hi> the daughter of Queen <hi>Margret</hi> wife unto <hi>Malcolme</hi> King of <hi>Scotland,</hi> which <hi>Margret</hi> was the elder Sister unto <hi>Edgar Ethe<g ref="char:EOLhyphen"/>ling,</hi> to whom the right of the Crown of <hi>England</hi> did belong, when <hi>Harold</hi> (who was slain by the Conqueror) had by fraud obtained the regal Scep<g ref="char:EOLhyphen"/>ter, the said Prince <hi>Edgar</hi> afterwards embracing the friendship of the Conqueror, had an imployment of charge in war to go into <hi>Italy,</hi> but in fine died without issue. This King <hi>Henry</hi> the younger son of the Conqueror, being born in <hi>England,</hi> marrying with his Queen of <hi>English</hi> blood Royal, was the oca<g ref="char:EOLhyphen"/>sion that the depressed <hi>English</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was raised again unto honor, and so by her was the <hi>English</hi> blood
+<pb n="8" facs="tcp:206583:6"/> royal brought in again to the enjoying of the <hi>English</hi> Crown, to which, our most gratious Soveraign <hi>Charles</hi> the second (being descended of the chiefest blood royal of that ancient race) is by the grace of God restored; whom God preserve, and for whom let's all cordially cry <hi>Vive le Roy.</hi>
+            </p>
+            <p>I have now been somewhat large in my digression, which was but necessary, for from hence I shall infer thus much, that we are now a Nation all of one language, which we were not when the laws were altered, those that were the greatest men then in power, having a design to annihilate the English tongue, and to have introduc'd their own, which (qustionless) was the ocasion of the said alteration, but that design failing, I know no reason why the law should be not in <hi>statu quo prius,</hi> and so revert as well as the language; contrary to the desires of those Babel-builders, that desire nothing more than to practise that, which at first was sent as plague. I do not say the language in which the Law of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had been practised since the Conquest (till of late years) was one of the seventy and two (for so many are recorded to be by some ancient Au<g ref="char:EOLhyphen"/>thors) that were extant at that grand confusion of tongues; for though God sent that confusion a<g ref="char:EOLhyphen"/>mongst them at that time as a punishment for their presumption, yet I make no question but that the study of many of those languages, have since been ve<g ref="char:EOLhyphen"/>ry beneficial both in Church and State; but as for this mongiel law, language of a latter Edition, I rather think it to be a peculiar plague reserv'd for this part of the world.</p>
+            <p>Fourthly, That which some pretend <hi>(viz.)</hi> that the law being in <hi>French</hi> and <hi>Latine</hi> is an incou<g ref="char:EOLhyphen"/>ragement to Scholarship and learning, is an argu<g ref="char:EOLhyphen"/>ment as weak, as the language they would uphold
+<pb n="9" facs="tcp:206583:6"/> is false; For though I will not say, but that a Scholar should sooner attain to the understanding of it than another, yet I must needs say, tis not meerly schol<g ref="char:EOLhyphen"/>lership that causes him to understand it; for I'll undertake that Dulman shall give a better account of a peice of law Latine, then a Doctor of the Univer<g ref="char:EOLhyphen"/>sity, who, in reason, and according to the rules of Grammer would be ready to correct that, which the other would find cause enough of bring<g ref="char:EOLhyphen"/>ing a writ of Error upon, for be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng so amended; the Law (as 'twas lately practised) and false Latine, being as coessential as fire and heat; The truth of which appears especially in words run out at length, of which sort there's very few because of the troublesomeness of terminations, which causeth Madam ignorance to thrust her head in a mask, and just in the middle of a word to turn up her heeles in the form of <hi>Herculcus</hi> pillars, and that for no other reason (God knowes) many times, but because she is at a non-plus; which anticks being grown into a custome, tis by some thought a sin not venial to write <hi>plus ultra,</hi> or to make any further or better discovery. relying rather upon <hi>Ignoramus</hi> his rule <hi>Si non potes scribere rerum Latinum, scribe eum dasho.</hi> But from the general rule are excepted these which follow: <hi>hoseibus, shoesibus, morteribus,</hi> which must be writ at length, least cutting them off in the middle, they should speak <hi>English,</hi> which is contrary to Law.</p>
+            <p>Fiftlhy, besides those <hi>Egyptian</hi> Hieroglyphicks, and Court-hand Characters, together with that Galla<g ref="char:EOLhyphen"/>mafrey of solescisms, incongruities, and mixt lan<g ref="char:EOLhyphen"/>guages in the law, there's another device that's ten times worse, and that is Special Pleadings which, though there was a liberty left by the meale act to have used them when ocasion served, yet we see how little they have been made use
+<pb n="10" facs="tcp:206583:7"/> of, which sufficiently demonstrates how useless they are, where the general issue will serve as well, and the special matter given in Evidences, which is neither troublesome to the Attoruey, nor dange<g ref="char:EOLhyphen"/>rous or chargeable to the Cliant, whereas the other are commonly of a stupendious frightful length, which, by that time all the <hi>Items</hi> for drawings, counsel, coppying and entring come to be paid for, will be just like buying of a horse for so much a nail, and doubling of it, which according as the bargain is made, many times comes to ten times more than the jade is worth, besides many a good cause is spoy<g ref="char:EOLhyphen"/>led by special pleading wherein every punctillo must be proved, and yet not any thing can be brought in evidence (which perhaps might be forgot, or the witnesses not known till after pleading) but what is in the plea though the cause perish.</p>
+            <p>Sixthly, That old, formal, unnecessary way of sea<g ref="char:EOLhyphen"/>ling Leases of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ejectment, wherein, the difficulty and danger in actual sealing of them, is many times very prejudicial, besides the charge of the witnesses at the tryal to prove all circumstances; whereas all this needless labour and cost is prevented by that late way of consenting to a rule, to confess lease, entry and ouster, and insisting upon the matter of Tytle only, which I think none will deny to be far more safe and commodions then the other, unless they who (upon what reason or ground I know not) will needs perswade themselves that all the late cu<g ref="char:EOLhyphen"/>stomes and practises in the law must of necessity be revived, how disadvantageous soever they be to the people: but I hope their rash and coveteous conjectures will be frustrated by those of less selfish and more moderate principles.</p>
+            <p>Lastly, There be many other abuses in the law, which were lately, practised and are so obvi<g ref="char:EOLhyphen"/>ous to every ones understanding, that it were need<g ref="char:EOLhyphen"/>less
+<pb n="11" facs="tcp:206583:7"/> to particularize either them o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their several inconveniences; but only to name some of them in general: which are Writs of error after verdicts. the common Bar and new assignment, unnecessary ripetitions in Declarations, <hi>cum multis altis &amp;c.</hi> The prolixity of which proceedings procures im<g ref="char:EOLhyphen"/>ployment for a number of persons, that would other<g ref="char:EOLhyphen"/>wise betake themselves to more profitable exercises in the Common-wealth; &amp; yet I believe they were not tedious end Tautological enough to equallize some mens coveteousness, who could be content to wier<g ref="char:EOLhyphen"/>draw them to that length that they should rather want men to till the earth, then they to lose their gain of their ten-plough'd reams of paper: but me thinks men of parts and ingenuity should be of a more spritly genius, then to move alwayes in one Sphear, like a horse in a mill (which is work com<g ref="char:EOLhyphen"/>monly for dullest Jades) or to trifle away a great deal of time in buzling about that which would admit a quicker dispatch. <note place="margin">A Clergy man in the Coun<g ref="char:EOLhyphen"/>ty of Suf<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, that you may imagine had as un<g ref="char:EOLhyphen"/>consciona<g ref="char:EOLhyphen"/>ble pari<g ref="char:EOLhyphen"/>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oners as many law practise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</note>
+            </p>
+            <p>But to conclude; <hi>Quicquid recipitur, recipitur ad modum recipientis:</hi> to be sure the gal'd horse will kick, but tis no great matter, for if I have onely grieved the guitly, I care as little for it, as the * Parson did for his spiritual pig, that in a frolick he sold for a groat, or as he that bought it car'd for the pur<g ref="char:EOLhyphen"/>chase. If I am in an error I desire to be better in<g ref="char:EOLhyphen"/>formed; but till then, give me leave to say, that many things in the law were justly reformed, which should admit yet a further reformation, or if you will a reformation <hi>de novo</hi> by a lawful Authority: And truly tis my Judgment that if the King himself <note place="margin">Which though it be ancient, yet it seems tis thought useless.</note> can condeseend to the abrogation of his * Court of wards, surely his Subjects may dispence with the abolishing of impertinent words, which I make no question will readily be consented unto by all those
+<pb n="12" facs="tcp:206583:8"/> that prefer not private gain before the publick good. In fine, as concerning the truth of all and singular the premisses. I shall appeal to those that are most concerned, and therein give them that advantage of being Judges in their own case; and yet <hi>I</hi> am confident that what I have said, they will in their own language confess to be <hi>Truthum, &amp; totum tru<g ref="char:EOLhyphen"/>thum, &amp; nihil nisi truthum.</hi>
+            </p>
+            <div type="postscript">
+               <head>Post-Script.</head>
+               <p>
+                  <hi>Quod scripsi, scripsi:</hi> What all think of it I know not; what some think of it I care not, but shall e<g ref="char:EOLhyphen"/>poligize with that royal motto. <hi>Honi soit qui mal y pense.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
